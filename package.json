@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "seerairdropactiveaddresses",
+  "version": "1.0.0",
+  "main": "Check-humans-gnosis-active.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "web3": "^4.16.0"
+  }
+}
