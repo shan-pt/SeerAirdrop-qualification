@@ -2,7 +2,7 @@
   "type": "module",
   "name": "seerairdropactiveaddresses",
   "version": "1.0.0",
-  "main": "Check-humans-gnosis-active.js",
+  "main": "check-addresses.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
