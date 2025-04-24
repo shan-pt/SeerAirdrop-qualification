@@ -39,3 +39,6 @@ market7 = Will [ ] be sentenced to any time behind bars in 2024?
 market8 = During his second term as President, will Trump call on Congress to replace the income tax with tariffs?
 '0x80cFa427a022d735C74c407F6A1d546F8280Be26', DT24_TAR_Y (DT24_TAR_Y)
 '0x83717Dcf8F5C64E135e87446EB515fA70185f2D9', DT24_TAR_N (DT24_TAR_N)
+
+-npm install
+-node check-addresses.js (or) node check-who-claimed-airdrop.js (To run)
