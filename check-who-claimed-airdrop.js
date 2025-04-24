@@ -1,6 +1,6 @@
 import Web3 from 'web3';
 import {writeFileSync} from 'fs';
-import data from './Addresses/AllAddresses/humans-gnosis.json' with { type: "json" };
+import data from './Addresses/AllAddresses/humans-gnosis.json' with { type: "json" }; // change here to get different addresses (humans-gnosis, humans-mainnet, jurors-mainnet, jurors-gnosis)
 const rpcUrl = 'https://rpc.gnosischain.com'; 
 const web3 = new Web3(new Web3.providers.HttpProvider(rpcUrl));
 
